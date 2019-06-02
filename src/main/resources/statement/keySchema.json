@@ -1,1 +1,0 @@
-"{\"type\":\"record\",\"namespace\":\"com.nbs.speedlayer.sap.avro\",\"name\":\"StatementKey\",\"fields\":[{\"name\":\"MANDT\",\"type\":[\"null\",\"string\"],\"doc\":\"Client\"},{\"name\":\"TRANS_TYPE\",\"type\":[\"null\",\"string\"],\"doc\":\"Transaction Type\"},{\"name\":\"ISREVERSEALLITEM\",\"type\":[\"null\",\"string\"],\"doc\":\"Indicator: Reversal Item\"}]}"
