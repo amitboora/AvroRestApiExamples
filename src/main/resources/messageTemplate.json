@@ -1,0 +1,10 @@
+{
+  "key_schema": %s,
+  "value_schema": %s,
+  "records": [
+    {
+      "key": %s,
+      "value": %s
+    }
+  ]
+}

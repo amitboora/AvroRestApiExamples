@@ -1,0 +1,44 @@
+{
+  "CLIENT": {
+    "string": "Test"
+  },
+  "CONTRACT_INT": {
+    "string": "3"
+  },
+  "TURNOVER_CLASS": {
+    "string": "3"
+  },
+  "BALANCE": {
+    "double": 370
+  },
+  "LCOLDATE": {
+    "string": "123"
+  },
+  "LPOSTDATE": {
+    "string": "123"
+  },
+  "LAST_REL_TMSP": {
+    "double": 12333
+  },
+  "LAST_INFO_TMSP": {
+    "double": 12333
+  },
+  "LAST_CIMT_TMSP": {
+    "double": 12333
+  },
+  "LAST_STL_PSTDATE": {
+    "string": "1234"
+  },
+  "LAST_STL_PSTINCL": {
+    "string": "1233"
+  },
+  "LAST_STL_AVLB": {
+    "string": "123"
+  },
+  "LAST_STL_VALDATE": {
+    "string": "1233"
+  },
+  "LAST_STL_ENDDATE": {
+    "string": "1234"
+  }
+}

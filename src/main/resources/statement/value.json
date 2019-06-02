@@ -1,0 +1,18 @@
+{
+  "MANDT": {
+    "string": "Test"
+  },
+  "TRANS_TYPE": {
+    "string": "abc"
+  },
+  "ISREVERSEALLITEM": {
+    "string": "yes"
+  },
+  "PODCSTRANSACT1": null,
+  "PODCSTRANSACT2": {
+    "string": "KJ"
+  },
+  "PODCSTRANSACT3": null,
+  "MINISTMT_TTCODE": null,
+  "STATM_TEXT_CODE": null
+}

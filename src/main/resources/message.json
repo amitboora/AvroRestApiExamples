@@ -1,0 +1,10 @@
+{
+  "key_schema": "{\"type\":\"record\",\"namespace\":\"com.nbs.speedlayer.sap.avro\",\"name\":\"StatementKey\",\"fields\":[{\"name\":\"MANDT\",\"type\":[\"null\",\"string\"],\"doc\":\"Client\"},{\"name\":\"TRANS_TYPE\",\"type\":[\"null\",\"string\"],\"doc\":\"Transaction Type\"},{\"name\":\"ISREVERSEALLITEM\",\"type\":[\"null\",\"string\"],\"doc\":\"Indicator: Reversal Item\"}]}",
+  "value_schema": "{\"type\":\"record\",\"namespace\":\"com.nbs.speedlayer.sap.avro\",\"name\":\"StatementKey\",\"fields\":[{\"name\":\"MANDT\",\"type\":[\"null\",\"string\"],\"doc\":\"Client\"},{\"name\":\"TRANS_TYPE\",\"type\":[\"null\",\"string\"],\"doc\":\"Transaction Type\"},{\"name\":\"ISREVERSEALLITEM\",\"type\":[\"null\",\"string\"],\"doc\":\"Indicator: Reversal Item\"}]}",
+  "records": [
+    {
+      "key": {"MANDT":{"string":"Test"},"TRANS_TYPE":{"string":"abc"},"ISREVERSEALLITEM":{"string":"yes"}},
+      "value": {"MANDT":{"string":"Test1"},"TRANS_TYPE":{"string":"abc"},"ISREVERSEALLITEM":{"string":"yes"}}
+    }
+  ]
+}

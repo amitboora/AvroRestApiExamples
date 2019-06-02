@@ -1,0 +1,1 @@
+"{\"type\":\"record\",\"name\":\"BalanceKey\",\"namespace\":\"com.nbs.speedlayer.sap.avro\",\"fields\":[{\"name\":\"CLIENT\",\"type\":[\"null\",\"string\"],\"doc\":\"Client\"},{\"name\":\"CONTRACT_INT\",\"type\":[\"null\",\"string\"],\"doc\":\"Internal Contract ID\"},{\"name\":\"TURNOVER_CLASS\",\"type\":[\"null\",\"string\"],\"doc\":\"Turnover Class\"}]}"

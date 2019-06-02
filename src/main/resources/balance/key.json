@@ -1,0 +1,11 @@
+{
+  "CLIENT": {
+    "string": "Test"
+  },
+  "CONTRACT_INT": {
+    "string": "3"
+  },
+  "TURNOVER_CLASS": {
+    "string": "3"
+  }
+}

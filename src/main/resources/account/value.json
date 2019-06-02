@@ -1,0 +1,26 @@
+{
+    "CLIENT": {
+      "string": "Test"
+    },
+    "CONTRACT_INT": {
+      "string": "3000000002"
+    },
+    "AC_CHANGE_TSTAMP": null,
+    "VALID_FROM": null,
+    "VALID_TO": null,
+    "VALID_TO_REAL": null,
+    "ACNUM_EXT": {
+      "string": "123"
+    },
+    "BANKLAND": null,
+    "BANKKEY": null,
+    "CN_CUR": null,
+    "CN_USAGE": null,
+    "XCHKDIG": null,
+    "CHANGE_USER": null,
+    "CHANGE_BTCATG": null,
+    "FLG_TOBE_RELD": null,
+    "IBAN": null,
+    "KEYCODE": null,
+    "BAC_ID": null
+  }

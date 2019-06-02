@@ -1,0 +1,1 @@
+"{\"type\":\"record\",\"name\":\"ContractKey\",\"namespace\":\"com.nbs.speedlayer.sap.avro\",\"fields\":[{\"name\":\"CLIENT\",\"type\":[\"null\",\"string\"],\"doc\":\"Client\"},{\"name\":\"CONTRACT_INT\",\"type\":[\"null\",\"string\"],\"doc\":\"Internal Contract ID\"}]}"
